@@ -1,0 +1,16 @@
+C:\Users\Reinaldo\OneDrive\Documentos\Curso Progr\Serie\bin\Debug\net5.0\Serie.exe
+C:\Users\Reinaldo\OneDrive\Documentos\Curso Progr\Serie\bin\Debug\net5.0\Serie.deps.json
+C:\Users\Reinaldo\OneDrive\Documentos\Curso Progr\Serie\bin\Debug\net5.0\Serie.runtimeconfig.json
+C:\Users\Reinaldo\OneDrive\Documentos\Curso Progr\Serie\bin\Debug\net5.0\Serie.runtimeconfig.dev.json
+C:\Users\Reinaldo\OneDrive\Documentos\Curso Progr\Serie\bin\Debug\net5.0\Serie.dll
+C:\Users\Reinaldo\OneDrive\Documentos\Curso Progr\Serie\bin\Debug\net5.0\ref\Serie.dll
+C:\Users\Reinaldo\OneDrive\Documentos\Curso Progr\Serie\bin\Debug\net5.0\Serie.pdb
+C:\Users\Reinaldo\OneDrive\Documentos\Curso Progr\Serie\obj\Debug\net5.0\Serie.csproj.AssemblyReference.cache
+C:\Users\Reinaldo\OneDrive\Documentos\Curso Progr\Serie\obj\Debug\net5.0\Serie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reinaldo\OneDrive\Documentos\Curso Progr\Serie\obj\Debug\net5.0\Serie.AssemblyInfoInputs.cache
+C:\Users\Reinaldo\OneDrive\Documentos\Curso Progr\Serie\obj\Debug\net5.0\Serie.AssemblyInfo.cs
+C:\Users\Reinaldo\OneDrive\Documentos\Curso Progr\Serie\obj\Debug\net5.0\Serie.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\OneDrive\Documentos\Curso Progr\Serie\obj\Debug\net5.0\Serie.dll
+C:\Users\Reinaldo\OneDrive\Documentos\Curso Progr\Serie\obj\Debug\net5.0\ref\Serie.dll
+C:\Users\Reinaldo\OneDrive\Documentos\Curso Progr\Serie\obj\Debug\net5.0\Serie.pdb
+C:\Users\Reinaldo\OneDrive\Documentos\Curso Progr\Serie\obj\Debug\net5.0\Serie.genruntimeconfig.cache
